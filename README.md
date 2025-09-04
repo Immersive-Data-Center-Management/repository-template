@@ -1,4 +1,4 @@
-# SAP Repository Template
+# Immersive-Data-Center-Management Repository Template
 
 Default templates for NeoNephos open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/Immersive-Data-Center-Management will be created based on this template.
 
